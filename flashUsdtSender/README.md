@@ -1,5 +1,5 @@
 # FLASH USDT SENDER
-A Flash USDT sender on the TRON network
+A Flash USDT sender on the TRON network \n
 DISCLAIMER: THIS IS FOR EDUCATIONAL PURPOSES AND SHOULD BE USED ETHICALLY
 
 Developers Not Responsible for any malicious use of the Project
