@@ -9,8 +9,14 @@ To Run this project, ensure you have:
 - Python 3 installed
 - Wallet, TRC20 Compatible
 
-'''pip install urllib3==1.26.15 (install this first)'''
-'''pip install python-telegram-bot==13.7'''
+
+```
+pip install urllib3==1.26.15 (install this first)
+```
+
+```
+pip install python-telegram-bot==13.7
+```
 
 Create a Telegram bot on @godfather
 On the Main.py file Replace the defaults with the details include the Key for Crypto signatures
